@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">I’m a backend developer. I work with Java and MySQL, and currently, I’m using PHP at my job. I enjoy learning new technologies and improving my coding skills. I plan to keep growing as a developer and take on new challenges.</p>
+<p align="left">Backend developer with solid experience in Java, Spring Boot, and SQL, currently working in a productive environment developing, maintaining, and automating internal systems. At my current job, I use PHP and SQL as part of an institutional system. I’m focused on consolidating my profile as a backend Java developer.
+
+I’m known for my adaptability, continuous learning mindset, and process improvement orientation. I’m looking for new professional challenges in backend development, especially in Java environments, where I can contribute and keep growing.</p>
 
 ###
 
